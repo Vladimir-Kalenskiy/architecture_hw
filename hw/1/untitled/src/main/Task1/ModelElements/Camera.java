@@ -11,5 +11,6 @@ public class Camera extends ModelStore, Scene {
     }
     public void Move(Point3D p){
 
+
     }
 }
